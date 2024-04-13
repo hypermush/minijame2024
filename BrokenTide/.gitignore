@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# project settings so joe can lower the framerate on his laptop :)
+BrokenTide/Config/DefaultEngine.ini
